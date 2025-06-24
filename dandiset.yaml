@@ -35,7 +35,7 @@ assetsSummary:
   - Units
   - ElectrodeGroup
 citation: Optically tagged oxytocin neuron recordings from female mouse PVN (2025).
-  (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001512/draft
+  (Version 0.250624.1820) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.001512/0.250624.1820
 contributor:
 - awardNumber: ' 1 R34 NS 138066-01A0'
   name: National Institutes of Health (NIH)
@@ -67,8 +67,9 @@ description: 'Female mice (either Ai80F;Oxt-Flp or Oxt-Cre with Cre-dependent Ch
   virus injection) were implanted with silicon probes from either Cambridge Neurotechnology
   or Neuronexus. Mice were recorded during pup retrieval trials, free social interaction,
   and social preference tests. '
+doi: 10.48324/dandi.001512/0.250624.1820
 ethicsApproval: []
-id: DANDI:001512/draft
+id: DANDI:001512/0.250624.1820
 identifier: DANDI:001512
 keywords:
 - maternal
@@ -77,7 +78,7 @@ keywords:
 license:
 - spdx:CC0-1.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001512/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001512/0.250624.1820/assets.yaml
 name: Optically tagged oxytocin neuron recordings from female mouse PVN
 publishedBy:
   endDate: '2025-06-24T18:20:14.939698+00:00'
@@ -97,6 +98,6 @@ schemaKey: Dandiset
 schemaVersion: 0.6.10
 studyTarget:
 - What are the temporal dynamics and features of oxytocin neurons in the PVN?
-url: https://dandiarchive.org/dandiset/001512/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001512/0.250624.1820
+version: 0.250624.1820
 wasGeneratedBy: []
