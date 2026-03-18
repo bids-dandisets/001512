@@ -1,0 +1,19 @@
+{
+    "Name": "Optically tagged oxytocin neuron recordings from female mouse PVN",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "Female mice (either Ai80F;Oxt-Flp or Oxt-Cre with Cre-dependent ChR2 virus injection) were implanted with silicon probes from either Cambridge Neurotechnology or Neuronexus. Mice were recorded during pup retrieval trials, free social interaction, and social preference tests. ",
+    "DatasetType": "raw",
+    "Authors": [
+        "Caslin, Asha"
+    ],
+    "License": "CC0-1.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
